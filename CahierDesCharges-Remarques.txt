@@ -1,0 +1,27 @@
+Objectifs : Compréhension de la gravité en rapport avec une fusée. 
+
+1) Création et Personnalisation d’un avatar avec Nom
+Etat : Fait
+Remarques : Choix d’un avatar basique selon une image. Après avoir inséré un nom, cliquer sur l’un des deux active le bouton « Continuer ».
+2) L’avatar du joueur se trouve à l’intérieur de la fusée
+Etat : Fait.
+Remarques : Le personnage se trouve bien dans la fusée et j’utilise une vue « FPS ».
+3) La fusée perd du carburant lorsqu’elle change de trajectoire
+Etat : Fait.
+Remarques : Le décompte s’affiche sur le moniteur de la fusée
+4) La fusée se met en orbite autour d’une planète lorsqu’elle s’approche trop près d’elle
+Etat : Fait
+Remarques : Activation d’un « Bouclier ».
+5) La fusée utilise la gravité des planètes pour se projeter plus loin.
+Etat : Fait
+Remarques : Activation des « propulseurs ».
+6)La fusée passe dans un trou noir pour passer au niveau suivant
+Etat : Fait
+Remarques : /
+7) BONUS : Shader 
+Etat : Fait
+Remarques : Lorsque la fusée passe dans l’orage cosmique, un effet (« shader ») est appliqué. 
+
+Qualité conseillée : 1280x720 (720p)
+
+Autres remarques : Le jeu ne possède pour l’instant qu’un seul niveau et comporte un aspect narratif. Pour l’instant, la fusée ne peut subir aucun potentiel dégât (météorites, éclairs-orage cosmique..). L’aspect « Gameplay » a été privilégié par rapport à modélisation (fusée..), même si certains détails sont notables (Trou noir/Vortex -> grâce au système de particules, éclairs, etc.). Le jeu est en 3D.
